@@ -1,0 +1,127 @@
+week,away_team,home_team
+1,White Men Cant Jump,Jackgallagher81
+1,kabird3,Average Joels
+1,MackieG,Day-to-Davis
+1,Agent 0 F@#s,Aforbes96
+1,BigKeith,Moore Wins
+1,Nikolas Paradise,Baltimore Buckets
+2,Moore Wins,Aforbes96
+2,MackieG,kabird3
+2,Jackgallagher81,Nikolas Paradise
+2,Day-to-Davis,White Men Cant Jump
+2,Baltimore Buckets,Agent 0 F@#s
+2,Average Joels,BigKeith
+3,Aforbes96,Average Joels
+3,Moore Wins,Baltimore Buckets
+3,kabird3,Day-to-Davis
+3,Agent 0 F@#s,Jackgallagher81
+3,BigKeith,MackieG
+3,Nikolas Paradise,White Men Cant Jump
+4,White Men Cant Jump,Agent 0 F@#s
+4,kabird3,BigKeith
+4,MackieG,Aforbes96
+4,Jackgallagher81,Moore Wins
+4,Day-to-Davis,Nikolas Paradise
+4,Average Joels,Baltimore Buckets
+5,Aforbes96,kabird3
+5,Moore Wins,White Men Cant Jump
+5,Agent 0 F@#s,Nikolas Paradise
+5,Baltimore Buckets,MackieG
+5,Average Joels,Jackgallagher81
+5,BigKeith,Day-to-Davis
+6,White Men Cant Jump,Average Joels
+6,kabird3,Baltimore Buckets
+6,MackieG,Jackgallagher81
+6,Day-to-Davis,Agent 0 F@#s
+6,BigKeith,Aforbes96
+6,Nikolas Paradise,Moore Wins
+7,Aforbes96,Day-to-Davis
+7,Moore Wins,Agent 0 F@#s
+7,MackieG,White Men Cant Jump
+7,Jackgallagher81,kabird3
+7,Baltimore Buckets,BigKeith
+7,Average Joels,Nikolas Paradise
+8,Aforbes96,Baltimore Buckets
+8,kabird3,White Men Cant Jump
+8,Day-to-Davis,Moore Wins
+8,Agent 0 F@#s,Average Joels
+8,BigKeith,Jackgallagher81
+8,Nikolas Paradise,MackieG
+9,White Men Cant Jump,BigKeith
+9,kabird3,Nikolas Paradise
+9,MackieG,Agent 0 F@#s
+9,Jackgallagher81,Aforbes96
+9,Baltimore Buckets,Day-to-Davis
+9,Average Joels,Moore Wins
+10,Aforbes96,White Men Cant Jump
+10,Moore Wins,MackieG
+10,Day-to-Davis,Average Joels
+10,Agent 0 F@#s,kabird3
+10,Baltimore Buckets,Jackgallagher81
+10,BigKeith,Nikolas Paradise
+11,White Men Cant Jump,Baltimore Buckets
+11,kabird3,Moore Wins
+11,MackieG,Average Joels
+11,Jackgallagher81,Day-to-Davis
+11,BigKeith,Agent 0 F@#s
+11,Nikolas Paradise,Aforbes96
+12,Aforbes96,Agent 0 F@#s
+12,Moore Wins,BigKeith
+12,Jackgallagher81,White Men Cant Jump
+12,Day-to-Davis,MackieG
+12,Baltimore Buckets,Nikolas Paradise
+12,Average Joels,kabird3
+13,White Men Cant Jump,Day-to-Davis
+13,Aforbes96,Moore Wins
+13,kabird3,MackieG
+13,Agent 0 F@#s,Baltimore Buckets
+13,BigKeith,Average Joels
+13,Nikolas Paradise,Jackgallagher81
+14,White Men Cant Jump,Nikolas Paradise
+14,MackieG,BigKeith
+14,Jackgallagher81,Agent 0 F@#s
+14,Day-to-Davis,kabird3
+14,Baltimore Buckets,Moore Wins
+14,Average Joels,Aforbes96
+15,Aforbes96,MackieG
+15,Moore Wins,Jackgallagher81
+15,Agent 0 F@#s,White Men Cant Jump
+15,Baltimore Buckets,Average Joels
+15,BigKeith,kabird3
+15,Nikolas Paradise,Day-to-Davis
+16,White Men Cant Jump,Moore Wins
+16,kabird3,Aforbes96
+16,MackieG,Baltimore Buckets
+16,Jackgallagher81,Average Joels
+16,Day-to-Davis,BigKeith
+16,Nikolas Paradise,Agent 0 F@#s
+17,Aforbes96,BigKeith
+17,Moore Wins,Nikolas Paradise
+17,Jackgallagher81,MackieG
+17,Agent 0 F@#s,Day-to-Davis
+17,Baltimore Buckets,kabird3
+17,Average Joels,White Men Cant Jump
+18,White Men Cant Jump,MackieG
+18,kabird3,Jackgallagher81
+18,Day-to-Davis,Aforbes96
+18,Agent 0 F@#s,Moore Wins
+18,BigKeith,Baltimore Buckets
+18,Nikolas Paradise,Average Joels
+19,White Men Cant Jump,kabird3
+19,Moore Wins,Day-to-Davis
+19,MackieG,Nikolas Paradise
+19,Jackgallagher81,BigKeith
+19,Baltimore Buckets,Aforbes96
+19,Average Joels,Agent 0 F@#s
+20,Aforbes96,Jackgallagher81
+20,Moore Wins,Average Joels
+20,Day-to-Davis,Baltimore Buckets
+20,Agent 0 F@#s,MackieG
+20,BigKeith,White Men Cant Jump
+20,Nikolas Paradise,kabird3
+21,White Men Cant Jump,Aforbes96
+21,kabird3,Agent 0 F@#s
+21,MackieG,Moore Wins
+21,Jackgallagher81,Baltimore Buckets
+21,Average Joels,Day-to-Davis
+21,Nikolas Paradise,BigKeith
